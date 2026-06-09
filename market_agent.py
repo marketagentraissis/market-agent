@@ -82,7 +82,7 @@ Content: {a.get('summary', 'No content available')}
 
     response = client.messages.create(
         model="claude-opus-4-5",
-        max_tokens=2000,
+        max_tokens=4000,
         messages=[
             {
                 "role": "user",
