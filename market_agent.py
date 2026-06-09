@@ -6,13 +6,16 @@ from datetime import datetime
 import schedule
 import time
 import os
+from dotenv import load_dotenv
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 
-client = anthropic.Anthropic()
+load_dotenv()
 
-# ── Email Configuration ────────────────────────────────────────────────────────
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 SENDGRID_API_KEY = os.environ.get("SENDGRID_API_KEY")
+
+client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 FROM_EMAIL = "marketagentraissis@gmail.com"      # The Gmail you just created
 TO_EMAIL = "sraissis@opengatecapital.com" # Where you want to receive the briefing
 
