@@ -4,3 +4,4 @@ beautifulsoup4
 feedparser
 schedule
 sendgrid
+python-dotenv
