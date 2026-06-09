@@ -1,0 +1,77 @@
+# MORNING MARKET BRIEFING
+**Tuesday, June 9, 2026**
+
+---
+
+## 1. US MARKET OVERVIEW
+
+**Pre-Market Snapshot:**
+- **S&P 500 reversing early gains** as tech megacap rotation accelerates; investors shifting out of AI/tech winners into laggards
+- **Volatility elevated** – traders noting "volatility heaven" conditions
+
+**Macro Drivers:**
+- **CPI data imminent** – JPMorgan strategist forecasting print **above 4%**, though notes gasoline prices peaked late May and are declining (potential relief in subsequent prints)
+- **Labor market mixed signals:**
+  - ADP private payrolls: **+122K in May** (beat expectations); notably broad-based vs. prior healthcare concentration
+  - Long-term unemployment **surging** – structural concerns emerging
+  - Household financial anxiety at **highest since July 2022** (NY Fed survey)
+- **Friday's NFP** expected to provide "reality check" on YTD job strength
+
+**Fed Implications:** Sticky inflation >4% keeps rate cuts off table near-term despite softening consumer sentiment.
+
+---
+
+## 2. EUROPEAN MARKET OVERVIEW
+
+**Key Developments:**
+- **UK:** PM Starmer preparing announcement on **under-16 social media ban** within days – regulatory pressure on tech platforms intensifying
+- **BP restructuring:** New CEO Meg O'Neill executing leadership overhaul, **pivoting back to oil & gas** core business – abandoning prior green transition emphasis
+- **Italy:** Bidding war erupting for **Monte dei Paschi di Siena** (world's oldest bank) – potential consolidation play
+- **Energy:** Malaysia boosting **LNG and naphtha supply** to Japan post-summit
+
+**Macro:** Kenya held benchmark rate unchanged (monitoring Iran conflict spillover) – EM risk sentiment cautious.
+
+---
+
+## 3. TOP STORIES FOR PE/DEAL ACTIVITY
+
+| Priority | Story | PE Implications |
+|----------|-------|-----------------|
+| **1** | **Apollo & Blackstone raise $35B for Anthropic chip financing** | Landmark private credit deal – one of largest ever. Signals PE's deepening role in AI infrastructure financing. Direct lending at scale to growth-stage AI. |
+| **2** | **SpaceX IPO at $1.78T valuation** | Massive liquidity event. ETFs with early stakes seeing inflows but "scarcity value" dissipating post-listing. Secondary market dynamics shifting. |
+| **3** | **JPMorgan deploying advanced AI agents** | Enterprise AI adoption crossing security/governance thresholds. Due diligence on portfolio company AI readiness becoming critical. |
+| **4** | **Hong Kong IPO boom showing "performance problem"** | Pre-debut runups souring post-listing. Exit timing risk for Asia-focused PE; public market alternatives less attractive. |
+| **5** | **Casino consolidation: Caesars & MGM potential new ownership** | Two major tycoons circling – gaming sector M&A heating up. |
+
+---
+
+## 4. SECTOR HIGHLIGHTS
+
+| Sector | Signal | Details |
+|--------|--------|---------|
+| **AI/Tech** | ⚠️ Rotation | Megacaps tumbling; market broadening. "Picks & shovels" plays (Caterpillar, Hochtief) benefiting from data center buildout |
+| **Private Credit** | 🔥 Hot | $35B Anthropic deal validates asset class at scale for tech infrastructure |
+| **Energy** | Mixed | BP doubling down on hydrocarbons; energy inflation showing signs of easing |
+| **EVs** | 📈 Growth | BYD projecting **80% EV penetration** in China car sales – though domestic demand tapering |
+| **Gaming** | 👀 M&A | Roblox +up on Russia unblock reports; US casino consolidation brewing |
+| **Prediction Markets** | Emerging | EDGE Markets launching payment friction solutions – fintech niche to watch |
+
+---
+
+## 5. KEY RISKS TODAY
+
+| Risk | Impact | Watch For |
+|------|--------|-----------|
+| **CPI >4% print** | HIGH | Could trigger sharp rates repricing; deal financing costs stay elevated |
+| **Tech rotation acceleration** | MEDIUM-HIGH | If megacap selloff deepens, broader risk-off possible; IPO window could narrow |
+| **Iran conflict spillover** | MEDIUM | Kenya citing as rate decision factor; oil supply disruption risk |
+| **Consumer stress** | MEDIUM | Household anxiety at 2022 highs + long-term unemployment surge = demand destruction risk |
+| **Ebola quarantine tensions** | LOW-MEDIUM | Kenya protests over US facility – geopolitical/health monitoring situation |
+
+---
+
+## BOTTOM LINE FOR PE
+
+The $35B Anthropic financing deal is the headline – validates private credit's role in mega-scale AI infrastructure. However, watch CPI closely: a print above 4% keeps the cost of capital elevated and could cool the IPO wave optimism. Tech rotation creates both risk (portfolio markdowns) and opportunity (entry points). Hong Kong exit dynamics deteriorating – factor into Asia exposure decisions.
+
+**Key data:** Friday's May jobs report will set tone for summer deal activity.
