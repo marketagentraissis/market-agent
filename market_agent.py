@@ -54,6 +54,27 @@ RSS_FEEDS = [
     "https://www.barrons.com/xml/rss/3_7510.xml",
     # Harvard Business Review
     "https://hbr.org/topics/finance/rss",
+    # Yahoo Finance
+    "https://finance.yahoo.com/rss/",
+    "https://finance.yahoo.com/news/rssindex",
+    # Washington Post
+    "https://feeds.washingtonpost.com/rss/business",
+    "https://feeds.washingtonpost.com/rss/politics",
+    # New York Times
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+    # ZeroHedge — contrarian risk commentary
+    "https://feeds.feedburner.com/zerohedge/feed",
+    # Axios — deal and startup focused
+    "https://api.axios.com/feed/",
+    # TechCrunch — tech sector PE deals
+    "https://techcrunch.com/feed/",
+    # Nikkei Asia — Asian markets
+    "https://asia.nikkei.com/rss/feed/nar",
+    # Federal Reserve — official releases and speeches
+    "https://www.federalreserve.gov/feeds/press_all.xml",
+    # IMF — global economic outlook
+    "https://www.imf.org/en/News/rss?language=eng",
 ]
 
 def fetch_articles(feeds, max_per_feed=5):
