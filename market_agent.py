@@ -164,7 +164,7 @@ def run_morning_briefing():
     print("Sending email...")
     send_email(briefing)
 
-schedule.every().day.at("08:00").do(run_morning_briefing)
+schedule.every().day.at("12:00").do(run_morning_briefing)
 
 if __name__ == "__main__":
     print("Market briefing agent started.")
